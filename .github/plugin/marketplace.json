@@ -433,7 +433,7 @@
         "repo": "Pushary/vscode-plugin"
       },
       "description": "PreToolUse permission gate that routes risky terminal commands to a phone approval before they run, plus MCP tools for the agent to ask questions and send notifications. Requires a Pushary account.",
-      "version": "0.1.0",
+      "version": "0.2.2",
       "author": {
         "name": "Pushary",
         "url": "https://pushary.com"
